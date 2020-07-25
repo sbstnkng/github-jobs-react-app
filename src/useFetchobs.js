@@ -8,7 +8,7 @@ const ACTIONS = {
   UPDATE_HAS_NEXT_PAGE: 'update-has-next-page',
 };
 
-const CORS_ANYWHERE = window.location.hostname === 'localhost' ? 'https://cors-anywhere.herokuapp.com/' : '';
+const CORS_ANYWHERE = 'https://cors-anywhere.herokuapp.com/';
 const BASE_URL = CORS_ANYWHERE + 'https://jobs.github.com/positions.json';
 
 const reducer = (state, action) => {
