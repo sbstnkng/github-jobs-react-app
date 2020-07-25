@@ -25,3 +25,7 @@ npm run build
 ```
 npm start
 ```
+
+# About create-react-app
+
+This app was built with create-react-app. More informations can be found [here](./doc/about-create-react-app.md).
