@@ -4,16 +4,16 @@
     "main.js.map": "/github-jobs-react-app/static/js/main.ceca8bb7.chunk.js.map",
     "runtime-main.js": "/github-jobs-react-app/static/js/runtime-main.3a522e37.js",
     "runtime-main.js.map": "/github-jobs-react-app/static/js/runtime-main.3a522e37.js.map",
-    "static/js/2.33b1917a.chunk.js": "/github-jobs-react-app/static/js/2.33b1917a.chunk.js",
-    "static/js/2.33b1917a.chunk.js.map": "/github-jobs-react-app/static/js/2.33b1917a.chunk.js.map",
+    "static/js/2.9aea640e.chunk.js": "/github-jobs-react-app/static/js/2.9aea640e.chunk.js",
+    "static/js/2.9aea640e.chunk.js.map": "/github-jobs-react-app/static/js/2.9aea640e.chunk.js.map",
     "index.html": "/github-jobs-react-app/index.html",
-    "precache-manifest.97ca31c47a248bd586335924dc688d05.js": "/github-jobs-react-app/precache-manifest.97ca31c47a248bd586335924dc688d05.js",
+    "precache-manifest.39699325988bbdfe122ffbcaf410192f.js": "/github-jobs-react-app/precache-manifest.39699325988bbdfe122ffbcaf410192f.js",
     "service-worker.js": "/github-jobs-react-app/service-worker.js",
-    "static/js/2.33b1917a.chunk.js.LICENSE.txt": "/github-jobs-react-app/static/js/2.33b1917a.chunk.js.LICENSE.txt"
+    "static/js/2.9aea640e.chunk.js.LICENSE.txt": "/github-jobs-react-app/static/js/2.9aea640e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3a522e37.js",
-    "static/js/2.33b1917a.chunk.js",
+    "static/js/2.9aea640e.chunk.js",
     "static/js/main.ceca8bb7.chunk.js"
   ]
 }
