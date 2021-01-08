@@ -4,14 +4,14 @@
     "main.js.map": "/github-jobs-react-app/static/js/main.ee476e19.chunk.js.map",
     "runtime-main.js": "/github-jobs-react-app/static/js/runtime-main.cffe2101.js",
     "runtime-main.js.map": "/github-jobs-react-app/static/js/runtime-main.cffe2101.js.map",
-    "static/js/2.7ca38c09.chunk.js": "/github-jobs-react-app/static/js/2.7ca38c09.chunk.js",
-    "static/js/2.7ca38c09.chunk.js.map": "/github-jobs-react-app/static/js/2.7ca38c09.chunk.js.map",
+    "static/js/2.9237d4ab.chunk.js": "/github-jobs-react-app/static/js/2.9237d4ab.chunk.js",
+    "static/js/2.9237d4ab.chunk.js.map": "/github-jobs-react-app/static/js/2.9237d4ab.chunk.js.map",
     "index.html": "/github-jobs-react-app/index.html",
-    "static/js/2.7ca38c09.chunk.js.LICENSE.txt": "/github-jobs-react-app/static/js/2.7ca38c09.chunk.js.LICENSE.txt"
+    "static/js/2.9237d4ab.chunk.js.LICENSE.txt": "/github-jobs-react-app/static/js/2.9237d4ab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cffe2101.js",
-    "static/js/2.7ca38c09.chunk.js",
+    "static/js/2.9237d4ab.chunk.js",
     "static/js/main.ee476e19.chunk.js"
   ]
 }
